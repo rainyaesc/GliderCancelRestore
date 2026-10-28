@@ -1,0 +1,6 @@
+*.log
+config.tsv
+mappings.tsv
+*.lnk
+*.pdb
+*.tmp

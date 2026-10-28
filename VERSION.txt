@@ -1,0 +1,4 @@
+GliderCancelRestore 0.3.2-cache-address-fix
+Target: Palworld Steam build 24467282 (installed 2026-08-05)
+UE4SS: existing experimental-palworld-6 / v3.0.1 Beta #0 (c838a8ac)
+Mode: Key.E ends local Eagle/Galeclaw gliding through native EndGliding; no gameplay values or game files are modified
